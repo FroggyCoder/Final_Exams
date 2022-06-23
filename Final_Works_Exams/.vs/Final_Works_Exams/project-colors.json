@@ -10,7 +10,17 @@
       "ProjectGuid": "50c39c41-0f21-4dd9-bad0-05962c1c62a6",
       "DisplayName": "Exam_Encrypt_of_Gronsveld",
       "ColorIndex": 1
+    },
+    "e76246d8-7327-4363-a896-130c347b0228": {
+      "ProjectGuid": "e76246d8-7327-4363-a896-130c347b0228",
+      "DisplayName": "Encr_Decr_of_Gronsweld",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

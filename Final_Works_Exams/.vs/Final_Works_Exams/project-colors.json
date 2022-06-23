@@ -5,7 +5,12 @@
       "ProjectGuid": "9d49c1d9-5711-428b-9425-90536d5f3bec",
       "DisplayName": "Sea_War_Exam",
       "ColorIndex": 0
+    },
+    "50c39c41-0f21-4dd9-bad0-05962c1c62a6": {
+      "ProjectGuid": "50c39c41-0f21-4dd9-bad0-05962c1c62a6",
+      "DisplayName": "Exam_Encrypt_of_Gronsveld",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
